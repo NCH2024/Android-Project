@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Intent_TruyenDuLieu_OnTap"
         tools:targetApi="31">
         <activity
+            android:name=".Delta"
+            android:exported="false" />
+        <activity
+            android:name=".GiaiPT"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
