@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    tools:context=".GoiDien">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#CCFF90"
+        android:gravity="center"
+        android:text="GỌI ĐIỆN THOẠI"
+        android:textAlignment="center"
+        android:textColor="#FF80AB"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:stretchColumns="*">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/edtSoDT"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:background="#B9F6CA"
+                android:ems="10"
+                android:hint="Nhập số cần gọi"
+                android:inputType="text"
+                android:textSize="24sp" />
+
+            <ImageButton
+                android:id="@+id/imgbtnNhanTin"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="#00FFFFFF"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/pngtreeanswer_the_phone_call_to_4441202" />
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:text="BACK" />
+</LinearLayout>
