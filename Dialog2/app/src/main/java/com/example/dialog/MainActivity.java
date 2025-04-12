@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 String ten = edtten.getText().toString();
                 String email = edtemail.getText().toString();
                 String sdt = edtsdt.getText().toString();
+                // Hiển thị thông báo
                 AlertDialog.Builder tbdangky = new AlertDialog.Builder(MainActivity.this);
                 tbdangky.setTitle("Đã đang ký thành viên");
                 tbdangky.setMessage("Tên: " + ten + "\nEmail: " + email + "\nSDT: " + sdt);

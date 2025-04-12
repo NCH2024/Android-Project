@@ -60,6 +60,8 @@ public class MainActivity extends AppCompatActivity {
                 }
         );
 
+        
+
         btnYeuCau.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, XuLy.class);
             int a = Integer.parseInt(edtNhapData.getText().toString());
