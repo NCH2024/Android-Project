@@ -1,62 +1,56 @@
+# 📱 ANDROID PROJECT COLLECTION
 
-Android Project Collection 📱
-Bộ sưu tập các project Android cơ bản, được xây dựng để luyện tập và nắm vững kỹ năng lập trình Android.
+> **BỘ SƯU TẬP CÁC PROJECT ANDROID CƠ BẢN GIÚP LUYỆN TẬP KỸ NĂNG LẬP TRÌNH.**
 
-🏗 Danh sách các project
-Constraint_layout: Giao diện ứng dụng sử dụng Constraint Layout.
+---
 
-Custom_Form: Thiết kế form nhập liệu tùy chỉnh.
+## 🏗️ DANH SÁCH PROJECT
 
-Dialog2: Ví dụ sử dụng Dialog trong Android.
+- **Constraint_layout** — Giao diện ứng dụng sử dụng **Constraint Layout**.
+- **Custom_Form** — Thiết kế **form nhập liệu** tùy chỉnh.
+- **Dialog2** — Ví dụ sử dụng **Dialog** trong Android.
+- **Intent_An_GoiDien_NhanTin** — Thao tác **gọi điện, nhắn tin** bằng Intent.
+- **Intent** — **Cơ bản** về Intent trong Android.
+- **Intent_An_ChupAnh_QuayVideo** — Sử dụng Intent **chụp ảnh, quay video**.
+- **Intent_Open_Website** — **Mở trình duyệt web** bằng Intent.
+- **Intent_TruyenDuLieu** — **Truyền dữ liệu** giữa các Activity.
+- **Intent_TruyenDuLieu2** — Thực hành thêm về **truyền dữ liệu**.
+- **Intent_TruyenDuLieu_Ontap** — Ôn tập **Intent truyền dữ liệu**.
+- **Linear_layout** — Giao diện sử dụng **Linear Layout**.
+- **ListView_CoBan** — Hiển thị danh sách dữ liệu bằng **ListView**.
+- **Ontap** — Ôn tập các kỹ năng cơ bản Android.
+- **OntapB1** — Project thực hành ôn tập thêm.
+- **Service_App_NgheNhac** — Ứng dụng dịch vụ **phát nhạc nền** (Service).
+- **Table_layout** — Giao diện sử dụng **Table Layout**.
+- **sms_BroadcastReceiver** — Xử lý **BroadcastReceiver** nhận tin nhắn.
 
-Intent-An_GoiDien_NhanTin: Thao tác gọi điện, nhắn tin bằng Intent.
+---
 
-Intent: Cơ bản về Intent trong Android.
+## ✨ TÍNH NĂNG NỔI BẬT
 
-Intent_An_ChupAnh_QuayVideo: Ứng dụng sử dụng Intent để chụp ảnh, quay video.
+- 💎 Triển khai nhiều **thành phần UI**: Layouts, ListView, Dialog.
+- 💬 **Giao tiếp giữa các Activity** bằng Intent.
+- 🎶 Thao tác với **Service và BroadcastReceiver**.
+- 🔥 Thực hành **truyền dữ liệu và xử lý sự kiện** trong Android.
 
-Intent_Open_Website: Mở trình duyệt web bằng Intent.
+---
 
-Intent_TruyenDuLieu: Chuyển dữ liệu giữa các Activity.
+## 🛠️ CÔNG NGHỆ SỬ DỤNG
 
-Intent_TruyenDuLieu2: Thực hành thêm về truyền dữ liệu.
+- **Ngôn ngữ**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- **Nền tảng**: Android SDK
+- **IDE**: Android Studio
 
-Intent_TruyenDuLieu_Ontap: Ôn tập truyền dữ liệu giữa các Activity.
+---
 
-Linear_layout: Giao diện sử dụng Linear Layout.
+## 💖 LỜI NHẮN GỬI
 
-ListView_CoBan: Hiển thị danh sách dữ liệu với ListView.
+> *Dự án này được tạo ra với tình yêu dành cho công nghệ và niềm đam mê học hỏi không ngừng.*  
+> *Nếu bạn thấy hữu ích, hãy ⭐ project này và cùng góp ý để phát triển hơn nhé!*
 
-Ontap: Ôn tập các kỹ năng cơ bản Android.
+---
 
-OntapB1: Ôn tập - Project thực hành thêm.
+> **Viết bởi:** *Nguyen Chanh Hiep🌟*
 
-Service_App_NgheNhac: Ứng dụng chạy dịch vụ phát nhạc.
+---
 
-Table_layout: Giao diện sử dụng Table Layout.
-
-sms_BroadcastReceiver: Xử lý BroadcastReceiver cho tin nhắn SMS.
-
-✨ Tính năng nổi bật
-Triển khai nhiều thành phần UI: Layouts, ListView, Dialog.
-
-Giao tiếp giữa các thành phần ứng dụng bằng Intent.
-
-Thao tác với Service và BroadcastReceiver.
-
-Thực hành truyền dữ liệu giữa các Activity.
-
-🛠 Công nghệ sử dụng
-Ngôn ngữ: Java ☕
-
-Nền tảng: Android SDK
-
-IDE: Android Studio
-
-💖 Lời nhắn gửi
-Dự án này được thực hiện với niềm đam mê công nghệ và mong muốn học hỏi không ngừng.
-Nếu bạn thấy hữu ích, đừng ngần ngại để lại ⭐ và góp ý để mình phát triển tốt hơn nhé!
-
-Viết bởi: Nguyen Chanh Hiep
-
-With love 🌷 — Nguyen Chanh Hiep
