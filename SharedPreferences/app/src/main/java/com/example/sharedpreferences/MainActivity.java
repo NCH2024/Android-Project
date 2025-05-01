@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
             txtLichSu.setText(lichSu);
     });
 }
+
     @Override
     protected void onPause() {
         super.onPause();
